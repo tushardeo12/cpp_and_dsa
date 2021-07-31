@@ -1,1 +1,1 @@
-# cpp_and_dsa
+# this repo contains the cpp solved questions nd the dsa questions
